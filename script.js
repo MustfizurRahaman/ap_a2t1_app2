@@ -31,7 +31,7 @@ require([
       type: "fields",
       fieldInfos: [
         { fieldName: "NAME", label: "Road Name" },
-        // ... add other fields as needed
+        
       ]
     }
   ]
@@ -47,7 +47,7 @@ require([
       type: "fields",
       fieldInfos: [
         { fieldName: "NAME", label: "Road Name" },
-        // ... add other fields as needed
+        
       ]
     }
   ]
