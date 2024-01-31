@@ -18,7 +18,7 @@ require([
     ymax: 6340332.343706039,
     spatialReference: 102100
   },
-  zoom: 4// Set your desired zoom level here
+  zoom: 4
   });
   
   // Feature Layer for roads with pop-up
